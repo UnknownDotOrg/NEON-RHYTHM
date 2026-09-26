@@ -10,3 +10,7 @@ because NEON RHYTHM will not be able to read it.
 
 If you want to write notes about your chart,
 keep them in a separate text file.
+
+
+!! IMPORTANT !!
+This README is outdated. You can use the PyRhy-Mod-Toolz.py file to creare your charts.
